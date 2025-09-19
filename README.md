@@ -1,12 +1,15 @@
-# React + Vite
+Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PopX is a web application focussed on providing a clean, responsive, and user-friendly interface. The “Grid View” design defines how content should be displayed, styled, and interacted with in a grid layout.
 
-Currently, two official plugins are available:
+Key Design Highlights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clean and modern visual style
 
-## Expanding the ESLint configuration
+Responsive grid layout to display cards / items
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Components like Login, Register, Profile, Welcome etc. (as seen in your code)
+
+Consistent use of spacing, color, typography
+
+Smooth user workflows (login → register → welcome → profile etc.)
